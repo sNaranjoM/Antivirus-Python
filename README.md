@@ -14,4 +14,6 @@ Librerías:
 
 **4. threading ** Para el manejo de hilo demonios para la verificación y actualización de datos en la interfaz grafica
 
+Necesario
+
 Se debe tener instalado Python se recomienda de la version 3.5.0 en adelante, para descargar seria del siguiente link:https://www.python.org/downloads/release/python-350/

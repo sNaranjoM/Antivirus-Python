@@ -10,9 +10,9 @@ Librerías:
 
 2. PySimpleGUI para el manejo del GUI. Versión
 
-**3. socket ** para crear un canal de conexión o socket.
+3. socket  para crear un canal de conexión o socket.
 
-**4. threading ** Para el manejo de hilo demonios para la verificación y actualización de datos en la interfaz grafica
+4. threading Para el manejo de hilo demonios para la verificación y actualización de datos en la interfaz grafica
 
 Necesario
 

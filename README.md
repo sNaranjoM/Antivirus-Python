@@ -6,13 +6,13 @@ IDE's y herramientas:
 
 Librerías:
 
-1. pymysql para la conexión con la bases de datos MySql. La versión implementada es 0.10.1
+1. pymysql: para la conexión con la bases de datos MySql. La versión implementada es 0.10.1
 
-2. PySimpleGUI para el manejo del GUI. Versión
+2. PySimpleGUI: para el manejo del GUI. Versión
 
-3. socket  para crear un canal de conexión o socket.
+3. socket:  para crear un canal de conexión o socket.
 
-4. threading Para el manejo de hilo demonios para la verificación y actualización de datos en la interfaz grafica
+4. threading: Para el manejo de hilo demonios para la verificación y actualización de datos en la interfaz grafica
 
 Necesario
 

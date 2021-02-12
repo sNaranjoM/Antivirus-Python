@@ -1,3 +1,5 @@
+Ver Wiky, en la pagina Manual de usuario para ver su funcionamiento 
+
 IDE's y herramientas:
 
 1. PyCharm 2020.2 (Professional Edition) entorno de desarrollo para programación en el lenguaje python por la empresa JetBrains
